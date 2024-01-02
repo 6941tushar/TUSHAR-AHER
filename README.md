@@ -2,4 +2,4 @@
 This is my first repository
 <br>
 Tushar aher 
-project name calculator
+project name calculator.
